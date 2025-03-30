@@ -18,7 +18,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-radius: 10%;
 }
+
+:hover i{    
+  transform: scale(1.8);
+  transition: transform 0.5s;
+}
+
 
 /* Contacto */
 
