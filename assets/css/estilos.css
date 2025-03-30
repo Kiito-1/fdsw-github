@@ -21,6 +21,11 @@ body {
   border-radius: 10%;
 }
 
+#Mis-trabajos{
+  background-color: #424242;
+  font-family: "Ephesis";
+}
+
 :hover i{    
   transform: scale(1.8);
   transition: transform 0.5s;
